@@ -4,7 +4,7 @@
 
 🌐 Live Demo
 
-Website: https://https://scriptly-ai-rouge.vercel.app/
+Website: https://paraspatira.github.io/scriptly-ai/
 
 📂 GitHub Repository
 
