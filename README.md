@@ -1,4 +1,4 @@
-﻿# 🚀 Scriptly AI
+# 🚀 Scriptly AI
 
 **Scriptly AI** is an AI-powered web application that helps creators generate high-quality YouTube video scripts in seconds. Simply enter a topic, choose the script length, tone, and target audience, and Scriptly AI will generate a well-structured script using Google's Gemini AI.
 
@@ -8,7 +8,7 @@ Website: https://paraspatira.github.io/scriptly-ai/
 
 📂 GitHub Repository
 
-https://github.com/paraspatira/Scriptly
+https://github.com/paraspatira/Scriptly-ai
 
 ---
 
